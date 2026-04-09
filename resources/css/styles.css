@@ -1,5 +1,6 @@
 body {
   background-color: black;
+  text-align: center;
 }
 
 h1 {
@@ -29,7 +30,7 @@ p {
   color: gray;
 }  
 
-footer p {
+body footer p {
     text-align: right;
 }
 
